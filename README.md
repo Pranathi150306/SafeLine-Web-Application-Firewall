@@ -179,6 +179,8 @@ http://TARGET_IP/index.php?id=' OR '1'='1
 ---
 
 ## SQL Injection Screenshot
+<img width="968" height="1127" alt="Screenshot 2026-06-19 234736" src="https://github.com/user-attachments/assets/98e6ae98-0a77-470d-ab8c-c1e27c5083f8" />
+
 
 ---
 

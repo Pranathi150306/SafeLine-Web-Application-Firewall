@@ -179,7 +179,8 @@ http://TARGET_IP/index.php?id=' OR '1'='1
 ---
 
 ## SQL Injection Screenshot
-<img width="968" height="1127" alt="Screenshot 2026-06-19 234736" src="https://github.com/user-attachments/assets/98e6ae98-0a77-470d-ab8c-c1e27c5083f8" />
+<img width="971" height="1133" alt="Screenshot 2026-06-19 233511" src="https://github.com/user-attachments/assets/d9d36737-fc53-49b6-9592-eee419d684ba" />
+
 
 
 ---
@@ -203,6 +204,8 @@ Submit the payload through a vulnerable input field.
 ---
 
 ## XSS Screenshot
+<img width="968" height="1127" alt="Screenshot 2026-06-19 234736" src="https://github.com/user-attachments/assets/b6540573-7c17-482a-b56d-e0b364e2c032" />
+
 
 ---
 
@@ -293,7 +296,7 @@ Through this project, I gained practical experience in:
 
 Cybersecurity Enthusiast | SOC Analyst Aspirant
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Pranathi150306
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+
 

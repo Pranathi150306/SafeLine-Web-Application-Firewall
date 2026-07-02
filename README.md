@@ -222,6 +222,9 @@ SafeLine provides:
 ---
 
 ## Dashboard Screenshot
+<img width="1918" height="966" alt="Screenshot 2026-06-22 010526" src="https://github.com/user-attachments/assets/0c62e0e8-b625-412c-bdf6-13a81b6b9d5c" />
+<img width="1918" height="945" alt="Screenshot 2026-06-22 010655" src="https://github.com/user-attachments/assets/610436fe-8c18-4996-8878-6b9e81b96a60" />
+<img width="1918" height="960" alt="Screenshot 2026-06-22 010756" src="https://github.com/user-attachments/assets/01604d57-5afa-4b05-aec8-44a4b82f7f03" />
 
 
 
